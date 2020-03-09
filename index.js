@@ -1,7 +1,6 @@
-let animalSt = "dog"
+const animal = "dog"
 
-function myAnimal(animalSt) {
-  let animal = animalSt
+function myAnimal() {
   return animal
 }
 
