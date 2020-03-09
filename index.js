@@ -5,8 +5,6 @@ function myAnimal(animalSt) {
   return animal
 }
 
-console.log(myAnimal("cat"))
-
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
