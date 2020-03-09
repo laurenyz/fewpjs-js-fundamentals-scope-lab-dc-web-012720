@@ -5,8 +5,8 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  function my(Animal)
-  return animal
+  return function my(Animal);
+ 
 }
 
 function add2(n) {
