@@ -1,7 +1,6 @@
 
 
 function myAnimal(animalSt) {
-  debugger
   let animal = animalSt
   return animal
 }
