@@ -5,7 +5,7 @@ function myAnimal(animalSt) {
   return animal
 }
 
-myAnimal("cat")
+console.log(myAnimal("cat"))
 
 function yourAnimal() {
   // How can we make sure that this function
