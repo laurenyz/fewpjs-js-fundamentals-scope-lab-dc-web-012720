@@ -1,9 +1,11 @@
 
 
 function myAnimal(animalSt) {
+  debugger
   let animal = animalSt
   return animal
 }
+
 
 function yourAnimal() {
   // How can we make sure that this function
